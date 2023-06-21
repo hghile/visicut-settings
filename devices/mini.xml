@@ -51,54 +51,54 @@ Please:
     </referencePoints>
     <viewPoints>
       <java.awt.geom.Point2D_-Double>
-        <x>676.0</x>
-        <y>751.0</y>
+        <x>682.0</x>
+        <y>756.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>2399.0</x>
+        <x>2410.0</x>
+        <y>1598.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>2503.0</x>
+        <y>770.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>767.0</x>
         <y>1591.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>2494.0</x>
-        <y>768.0</y>
+        <x>1597.0</x>
+        <y>770.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>761.0</x>
-        <y>1584.0</y>
+        <x>1592.0</x>
+        <y>1588.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1589.0</x>
-        <y>767.0</y>
+        <x>1022.0</x>
+        <y>1197.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1584.0</x>
-        <y>1584.0</y>
-      </java.awt.geom.Point2D_-Double>
-      <java.awt.geom.Point2D_-Double>
-        <x>1015.0</x>
-        <y>1191.0</y>
-      </java.awt.geom.Point2D_-Double>
-      <java.awt.geom.Point2D_-Double>
-        <x>2153.0</x>
-        <y>1200.0</y>
+        <x>2162.0</x>
+        <y>1203.0</y>
       </java.awt.geom.Point2D_-Double>
     </viewPoints>
     <homography>
       <A>
         <double-array>
-          <double>-0.012203748872802723</double>
-          <double>-0.002245152776212751</double>
-          <double>-0.01974624345663781</double>
+          <double>-0.012010477237768347</double>
+          <double>-0.0021967474246940323</double>
+          <double>-0.037032101453956266</double>
         </double-array>
         <double-array>
-          <double>-1.5841056649455005E-4</double>
-          <double>-0.013316387718421616</double>
-          <double>-0.9996365953896573</double>
+          <double>-1.2976233730953445E-4</double>
+          <double>-0.013112987612463163</double>
+          <double>-0.9991507849567678</double>
         </double-array>
         <double-array>
-          <double>-6.344789514941087E-8</double>
-          <double>-1.4643904896012683E-6</double>
-          <double>-0.0023322846445993496</double>
+          <double>-5.1941152854759605E-8</double>
+          <double>-1.419662942027171E-6</double>
+          <double>-0.002299529309430335</double>
         </double-array>
       </A>
       <m>3</m>
